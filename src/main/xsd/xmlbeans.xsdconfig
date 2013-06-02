@@ -1,0 +1,7 @@
+<xb:config xb="http://www.bea.com/2002/09/xbean/config">      
+ <!--
+ <xb:namespace uri="http://services.mylongcompanyname.com/public/purchaseorders/v356">         
+  <xb:package>com.mylongcompanyname.po</xb:package>     
+ </xb:namespace>
+ -->  
+</xb:config>
